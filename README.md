@@ -1,0 +1,1 @@
+# CoughSneezeRecorder_PrivacyURL
